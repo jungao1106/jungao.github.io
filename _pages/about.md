@@ -14,8 +14,7 @@ Research
 I am broadly interested in Natural Language Processing and Multidomal Fusion. My current research focuses on:
 - (1). How to prompt large models efficiently.
 - (2). How to help large models understand our beautiful worlds faithfully.
-
-*😀<font color='red'>I am actively looking for a 25 PhD offer and am open to discussion. Please feel free to drop me an e-mail if you are interested. </font>*
+<span style="color:red">*😀I am actively looking for a 25 PhD offer and am open to discussion. Please feel free to drop me an e-mail if you are interested.*</span>
 
 News
 ======
