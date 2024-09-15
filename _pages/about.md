@@ -54,7 +54,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 - **DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training**
 
-  Yu Xie^*, Qian Qiao^*, **Jun Gao**^*, Tianxiang Wu, Shaoyao Huang, Jiaqing Fan, Ziqiang Cao, Zili Wang, Yue Zhang, Jielei Zhang, Huyang Sun
+  Yu Xie^\*, Qian Qiao^\*, **Jun Gao\***, Tianxiang Wu, Shaoyao Huang, Jiaqing Fan, Ziqiang Cao, Zili Wang, Yue Zhang, Jielei Zhang, Huyang Sun
 
   ACM MM
 
