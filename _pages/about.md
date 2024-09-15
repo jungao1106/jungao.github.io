@@ -7,13 +7,17 @@ redirect_from:
   - /about.html
 ---
 My name is **Jun Gao (高俊)**, a third-year master's student at Soochow University supervised by [Prof. Ziqiang Cao](https://scholar.google.com/citations?hl=zh-CN&user=06ITfcEAAAAJ). Now, I am a research assistant working for [Prof. Wenjie Li](https://scholar.google.com/citations?user=Rx5swD4AAAAJ&hl=zh-CN) at the [NLP Group](https://polyunlp.github.io) of The Hong Kong Polytechnic University. Please check my [CV](https://jungao1106.github.io/files/Resume_GAO.pdf) for further information.
+
 Outside of research, I excel in cycling 🚴, taekwondo 🥋, running 🏃, badminton 🏸, and basketball 🏀
+
+
 
 Research
 ======
 I am broadly interested in Natural Language Processing and Multidomal Fusion. My current research focuses on:
 - (1). How to prompt large models efficiently.
 - (2). How to help large models understand our beautiful worlds faithfully.
+
 <span style="color:red">*😀I am actively looking for a 25 PhD offer and am open to discussion. Please feel free to drop me an e-mail if you are interested.*</span>
 
 News
