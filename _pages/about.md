@@ -52,27 +52,27 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
   Arxiv
 
-- DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training
+- **DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training**
 
   Yu Xie^*, Qian Qiao^*, **Jun Gao**^*, Tianxiang Wu, Shaoyao Huang, Jiaqing Fan, Ziqiang Cao, Zili Wang, Yue Zhang, Jielei Zhang, Huyang Sun
 
   ACM MM
 
-- Unifying Demonstration Selection and Compression for In-Context Learning
+- **Unifying Demonstration Selection and Compression for In-Context Learning**
 
 
   **Jun Gao**, Qi Lv, Ziqiang Cao, Wenjie Li
 
   Arxiv
 
-- Contrastive Learning with High-Quality and Low-Quality Augmented Data for Query-Focused Summarization
+- **Contrastive Learning with High-Quality and Low-Quality Augmented Data for Query-Focused Summarization**
 
 
   Shaoyao Huang, Ziqiang Cao, Luozheng Qin, **Jun Gao**, Jun Zhang
 
   ICASSP
 
-- Guiding ChatGPT to Generate Salient Domain Summaries
+- **Guiding ChatGPT to Generate Salient Domain Summaries**
 
   **Jun Gao**, Ziqiang Cao, Shaoyao Huang, Luozheng Qin, Chunhui Ai
 
