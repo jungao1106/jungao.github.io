@@ -43,43 +43,32 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 \* indicates equal contribution
 
-- **SelfCP: Compressing over-limit prompt via the frozen large language model itself**
+- **SelfCP: Compressing over-limit prompt via the frozen large language model itself**  (Information Processing & Management)
 
   **Jun Gao**, Ziqiang Cao, Wenjie Li
 
-  Information Processing & Management
 
-- **AIM: Let Any Multi-modal Large Language Models Embrace Efficient In-Context Learning**
+- **AIM: Let Any Multi-modal Large Language Models Embrace Efficient In-Context Learning** (Arxiv)
 
   **Jun Gao**, Qian Qiao, Ziqiang Cao, Zili Wang, Wenjie Li
 
-  Arxiv
-
-- **DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training**
+- **DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training** (ACM MM 2024)
 
   Yu Xie<sup>\*</sup>, Qian Qiao<sup>\*</sup>, **Jun Gao<sup>\*</sup>**, Tianxiang Wu, Shaoyao Huang, Jiaqing Fan, Ziqiang Cao, Zili Wang, Yue Zhang, Jielei Zhang, Huyang Sun
 
-  ACM MM
-
-- **Unifying Demonstration Selection and Compression for In-Context Learning**
-
+- **Unifying Demonstration Selection and Compression for In-Context Learning** (Arxiv)
 
   **Jun Gao**, Qi Lv, Ziqiang Cao, Wenjie Li
 
-  Arxiv
 
-- **Contrastive Learning with High-Quality and Low-Quality Augmented Data for Query-Focused Summarization**
-
+- **Contrastive Learning with High-Quality and Low-Quality Augmented Data for Query-Focused Summarization** (
+  ICASSP)
 
   Shaoyao Huang, Ziqiang Cao, Luozheng Qin, **Jun Gao**, Jun Zhang
 
-  ICASSP
-
-- **Guiding ChatGPT to Generate Salient Domain Summaries**
+- **Guiding ChatGPT to Generate Salient Domain Summaries** (IJCNN(oral))
 
   **Jun Gao**, Ziqiang Cao, Shaoyao Huang, Luozheng Qin, Chunhui Ai
-
-  IJCNN(oral)
 
 Services
 ------
