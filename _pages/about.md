@@ -72,11 +72,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 Services
 ------
-Reviewer:
+Reviewer: ARR 2024 Feb/April/June/Aug, IJCNN, IP&M
 
-ARR 2024 Feb/April/June/Aug, IJCNN, IP&M
-
-Chair:
-
-IJCNN 2024 Large Neural Network Session
+Chair: IJCNN 2024 Large Neural Network Session
 
