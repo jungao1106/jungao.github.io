@@ -21,19 +21,19 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "IMG_0568.JPG"
+  avatar           : "profile.JPG"
   name             : "Jun Gao"
   pronouns         : # example: "she/her"  
   bio              : "Third-year master student at Soochow University"
   location         : "Suzhou"
   employer         : "Soochow University"
-  email            : "junegao1106 [at] gmail [dot] com" 
+  email            : "junegao1106@gmail.com" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : "https://scholar.google.com/citations?user=9vR57s8AAAAJ&hl=zh-CN"
   impactstory      : # URL
-  orcid            : #c"http://orcid.org/yourorcidurl"
+  orcid            : # c"http://orcid.org/yourorcidurl"
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
