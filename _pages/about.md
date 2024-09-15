@@ -12,10 +12,10 @@ My name is **Jun Gao (高俊)**, a third-year master's student at Soochow Univer
 Research
 ======
 I am broadly interested in Natural Language Processing and Multidomal Fusion. My current research focuses on:
-- (1). How to prompt large models efficiently. (prompt compression, model pruning)
-- (2). How to help large models understand our beautiful worlds faithfully. (multimodal fusion)
+- (1). How to prompt large models efficiently.
+- (2). How to help large models understand our beautiful worlds faithfully.
 
-*😀I am actively looking for a 25 PhD offer and am open to discussion. Please feel free to contact me if you are interested.*
+*😀I am actively looking for a 25 PhD offer and am open to discussion. Please feel free to drop me an e-mail if you are interested.*
 
 News
 ======
