@@ -76,7 +76,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
   **Jun Gao**, Ziqiang Cao, Shaoyao Huang, Luozheng Qin, Chunhui Ai
 
- IJCNN(oral)
+  IJCNN(oral)
 
 Services
 ------
