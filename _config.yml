@@ -21,10 +21,10 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.JPG"
+  avatar           : "profile.png"
   name             : "Jun Gao"
   pronouns         : # example: "she/her"  
-  bio              : "Third-year master student at Soochow University"
+  bio              : "Third-year master's student at Soochow University"
   location         : "Suzhou"
   employer         : "Soochow University"
   email            : "junegao1106@gmail.com" 
