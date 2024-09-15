@@ -41,7 +41,7 @@ Publications
 ------
 Most recent publications on [Google Scholar](https://scholar.google.com/citations?user=9vR57s8AAAAJ&hl=zh-CN).
 
-* indicates equal contribution
+\* indicates equal contribution
 
 - **SelfCP: Compressing over-limit prompt via the frozen large language model itself**
 
@@ -57,7 +57,7 @@ Most recent publications on [Google Scholar](https://scholar.google.com/citation
 
 - **DNTextSpotter: Arbitrary-Shaped Scene Text Spotting via Improved Denoising Training**
 
-  Yu Xie^\*, Qian Qiao^\*, **Jun Gao\***, Tianxiang Wu, Shaoyao Huang, Jiaqing Fan, Ziqiang Cao, Zili Wang, Yue Zhang, Jielei Zhang, Huyang Sun
+  Yu Xie<sup>\*</sup>, Qian Qiao<sup>\*</sup>, **Jun Gao<sup>\*</sup>**, Tianxiang Wu, Shaoyao Huang, Jiaqing Fan, Ziqiang Cao, Zili Wang, Yue Zhang, Jielei Zhang, Huyang Sun
 
   ACM MM
 
